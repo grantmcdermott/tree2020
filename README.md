@@ -1,5 +1,5 @@
-# ASSA2020
+# TREE
 
-My presentation at the ASSA 2020 meetings
+My presentation at TREE.
 
-View the slide [here](https://raw.githack.com/grantmcdermott/assa2020/master/slides.html).
+View the slide [here](https://raw.githack.com/grantmcdermott/tree2020/master/slides.html).
